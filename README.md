@@ -1,5 +1,5 @@
 # 🇺🇸POTUS🏛️ '24 Election Modelling 
-Models and Data for the upcoming '24 American Presidential Election. Polling data mainly gathered from @[538](https://abcnews.go.com/538).
+Models and Data for the upcoming '24 American Presidential Election. Polling data mainly gathered from @[538](https://abcnews.go.com/538). Statistical methods learnt from [The Economist](https://www.economist.com/the-economist-explains/2022/09/09/how-does-the-economists-midterms-election-model-work) and [this](NBER working paper).
 
 1. What will Florida🤪 do?
 2. Can Utah Blutah?
