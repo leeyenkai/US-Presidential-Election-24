@@ -24,7 +24,7 @@ Polls just tend to favour the politically active. Worse of this would be online 
 A recurring issue from the past elections. I'm looking at you, Rasmussen Reports. Suprisingly, Fox News seem to do some solid polling for some reason. A true mystery for the ages.
 
 ### Question/Wording Bias
-Not really a big thing anymore since most pollers (especially the reputable ones) try to be as objective as possible, but minute changes in the wording of the questions translates to errors when comparing polls that are fundamentally not equivalent to each other.
+Not really a big thing anymore since most pollers (especially the reputable ones) try to be as objective as possible, but minute changes in the wording of the questions translates to errors when comparing polls that are fundamentally not equivalent to each other. Going to use Sentiment Analysis API from MS Azure to try out and experiment with this. Ideally all polling questions should have the same sentiment.
 
 
 
