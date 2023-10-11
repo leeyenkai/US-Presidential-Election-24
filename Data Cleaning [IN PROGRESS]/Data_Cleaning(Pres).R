@@ -1,11 +1,16 @@
-library("rcompanion") #this package is required for transformTukey function
-library("rstatix") # for Welch ANOVA test
-library("Rmisc")  # ci function to compute confidence interval
-library("rpivotTable")
-library("tidyverse")
-library("psych")
-library("RColorBrewer")
-library("corrplot")
+library(rcompanion) #this package is required for transformTukey function
+library(rstatix) # for Welch ANOVA test
+library(Rmisc)  # ci function to compute confidence interval
+library(rpivotTable)
+library(tidyverse)
+library(psych)
+library(RColorBrewer)
+library(corrplot)
+library(tseries) 
+library(TTR) # One alternative for time-series in R
+library(forecast) # An alternative for time series in R
+library(car) # "Companion to Applied Regression" package, for F-test for linear combination of regression coefs
+
 
 #Load main historical dataset 
 main_hist <- read.csv("president_polls_historical.csv")
