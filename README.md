@@ -26,5 +26,15 @@ A recurring issue from the past elections. I'm looking at you, Rasmussen Reports
 ### Question/Wording Bias
 Not really a big thing anymore since most pollers (especially the reputable ones) try to be as objective as possible, but minute changes in the wording of the questions translates to errors when comparing polls that are fundamentally not equivalent to each other. Going to use Sentiment Analysis API from MS Azure to try out and experiment with this. Ideally all polling questions should have the same sentiment.
 
+## Theories 💭
 
+### The Evangelical effect.
+
+> Mark my word, if and when these preachers get control of the [Republican] party, and they're sure trying to do so, it's going to be a terrible damn problem. Frankly, these people frighten me. Politics and governing demand compromise. But these Christians believe they are acting in the name of God, so they can't and won't compromise. I know, I've tried to deal with them.
+
+Maybe when Weber wrote *The Protestant Ethic*, he didn't have the Modern Evangelical movement in mind. Moreso the modern debate on abortion rights. 
+
+### The Vibecession.
+
+The economy, by many metrics, is doing better than ever. The American labour market remains stubbornly hot despite multiple interest rate hikes, and inflation is predicted to moderate going into 2024. So why are voters negative on the economy? 
 
