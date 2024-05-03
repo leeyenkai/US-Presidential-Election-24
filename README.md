@@ -1,4 +1,7 @@
 # 🇺🇸POTUS🏛️ '24 Election Modelling 
+
+## *"A republic, if you can keep it"*
+
 Models and Data for the upcoming '24 American Presidential Election. Polling data mainly gathered from @[538](https://abcnews.go.com/538). Statistical methods learnt from [The Economist](https://www.economist.com/the-economist-explains/2022/09/09/how-does-the-economists-midterms-election-model-work) and [this](https://www.nber.org/system/files/working_papers/w12053/w12053.pdf) NBER working paper.
 
 1. What will Florida🤪 do?
