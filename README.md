@@ -41,11 +41,20 @@ Maybe when Weber wrote *The Protestant Ethic*, he didn't have the Modern Evangel
 
 The economy, by many metrics, is doing better than ever. The American labour market remains stubbornly hot despite multiple interest rate hikes, and inflation is predicted to moderate going into 2024. So why are voters negative on the economy? 
 
-
 ## D-1 Prediction 🤞
 
 https://www.270towin.com/maps/Ngb4p
 
 <img width="1071" alt="image" src="https://github.com/user-attachments/assets/f3dc42fc-7196-40f3-9b1d-22e47de9d260">
+
+### Developments 
+
+#### 1. The Selzer thing
+
+#### 2. Reid & Nevada
+
+#### 3. The return of the blue wall?
+
+#### 4. Herding, and why the polls can't be trusted
 
 
