@@ -57,4 +57,7 @@ https://www.270towin.com/maps/Ngb4p
 
 #### 4. Herding, and why the polls can't be trusted
 
+## D-1 Map of Electoral Certainties 
+<img width="1098" alt="image" src="https://github.com/user-attachments/assets/92d0e22e-8c8f-4c00-8aa7-c69c08263513">
 
+https://www.270towin.com/maps/X2gBo
