@@ -1,0 +1,19 @@
+model_date,timestamp,p,desc,key
+2024-11-04,2024-11-04T20:14:20Z,0.83,Trump wins at least one state he didn't win in 2020,rep_newstate
+2024-11-04,2024-11-04T20:14:20Z,0.41,Harris wins at least one state he didn't win in 2020,dem_newstate
+2024-11-04,2024-11-04T20:14:20Z,0,Election is decided by a margin smaller than the share of the vote for third-party candidates,third_margin
+2024-11-04,2024-11-04T20:14:20Z,0.09,Election is decided by a recount (winner's margin is <0.5% in all key states),recount
+2024-11-04,2024-11-04T20:14:20Z,0.01,Every state votes for the same candidate as it did in 2020,states_same
+2024-11-04,2024-11-04T20:14:20Z,0,No candidate wins a majority (270+) of Electoral College votes,no_winner
+2024-11-04,2024-11-04T20:14:20Z,0,Trump wins the popular vote but loses the Electoral College,rep_poplose
+2024-11-04,2024-11-04T20:14:20Z,0.21,Harris wins the popular vote but loses the Electoral College,dem_poplose
+2024-11-04,2024-11-04T20:14:20Z,0.01,Trump wins the national popular vote by 10+ percentage points,rep_majority10
+2024-11-04,2024-11-04T20:14:20Z,0.04,Harris wins the national popular vote by 10+ percentage points,dem_majority10
+2024-11-04,2024-11-04T20:14:20Z,0.31,Trump wins a majority (50%+) of the national popular vote,rep_popmajority
+2024-11-04,2024-11-04T20:14:20Z,0.69,Harris wins a majority (50%+) of the national popular vote,dem_popmajority
+2024-11-04,2024-11-04T20:14:20Z,0.31,Trump wins the national popular vote,rep_popvote
+2024-11-04,2024-11-04T20:14:20Z,0.69,Harris wins the national popular vote,dem_popvote
+2024-11-04,2024-11-04T20:14:20Z,0.49,Trump wins Electoral College with <350 EVs,rep_slim
+2024-11-04,2024-11-04T20:14:20Z,0.02,Trump wins an Electoral College landslide (>350 EVs),rep_landslide
+2024-11-04,2024-11-04T20:14:20Z,0.39,Harris wins Electoral College with <350 electoral votes (EVs),dem_slim
+2024-11-04,2024-11-04T20:14:20Z,0.08,Harris wins an Electoral College landslide (>350 electoral votes),dem_landslide
